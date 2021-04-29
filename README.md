@@ -1,3 +1,3 @@
 The live demo can be seen at 
 
-https://seramiel.github.io/ecom/index.html
+https://seramiel.github.io/ecom/
